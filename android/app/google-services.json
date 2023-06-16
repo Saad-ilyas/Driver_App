@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "153097577425",
+    "firebase_url": "https://driver-sathchalien-default-rtdb.firebaseio.com",
+    "project_id": "driver-sathchalien",
+    "storage_bucket": "driver-sathchalien.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153097577425:android:94316b222098f1d76ef6f0",
+        "android_client_info": {
+          "package_name": "com.sathchalien.sathchaliendriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153097577425-us2i5paqh1vtm3gnom6qv152kbl10l2f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbC_4_7_KFFn1n4VN36HzhoxgSpONbj8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153097577425-us2i5paqh1vtm3gnom6qv152kbl10l2f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
